@@ -31,7 +31,7 @@ let resume = {
     );
   }
   
-  displayPosition('Interstar Transportation', 'National Acount Manager', 'Sales');
+  displayPosition('Interstar Transportation', 'National Account Manager', 'Sales');
   
   displayPosition('Greenway Health', 'Customer Support Manager', 'Support/Management');
   
